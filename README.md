@@ -61,6 +61,4 @@ Focused on clean architecture, fully code-based iOS development (no storyboards)
 
 ## 📫 Contact
 
-**Telegram:** @your-nickname  
-**Email:** your-email@example.com
-
+**Email:** roberts.mark@gmail.com
